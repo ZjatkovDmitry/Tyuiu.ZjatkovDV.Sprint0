@@ -22,7 +22,6 @@ namespace Tyuiu.ZjatkovDV.Sprint0.Task7.V0
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значение двух    *");
             Console.WriteLine("* одинаковых массивов по длине.                                           *");
-            Console.WriteLine("*                                                                         *");
             Console.WriteLine(new string('*', 75));
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine(new string('*', 75));
